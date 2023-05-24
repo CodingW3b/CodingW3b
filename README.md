@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Estoy trabajando actualmente en mis propios proyectos. || I'm currently working on my own projects.<br>🌱 Estoy aprendiendo actualmente nuevos lenguajes como Java y TypeScript. || I'm currently learning new programming languages like Java and TypeScript.<br>😇 Estoy intentando ayudar a la comunidad que apenas comienza en este mundo. || I am trying to help the community that is just beginning in this world<br>❔Preguntenme acerca de desarrollo web. || Ask me about web develpment
+💻 I'm currently working on my own projects.<br>🌱 I'm currently learning new programming languages like Java and TypeScript.<br>😇  I am trying to help the community that is just beginning in this world<br>❔ Ask me about web develpment
 
 
 ## 🌐 Socials:
